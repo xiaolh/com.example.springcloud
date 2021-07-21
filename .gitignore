@@ -1,5 +1,5 @@
 # Project exclude paths
-/cloud-consumer-order/target/
-/cloud-provider-payment/target/
+/cloud-consumer-order-80/target/
+/cloud-provider-payment-8001/target/
 /.idea/
 /.idea/

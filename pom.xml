@@ -4,14 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example.springcloud</groupId>
+    <groupId>com.example.springcloud</groupId>
     <artifactId>cloud</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>cloud-provider-payment</module>
-        <module>cloud-consumer-order</module>
+        <module>cloud-provider-payment-8001</module>
+        <module>cloud-consumer-order-80</module>
+        <module>cloud-api-common</module>
     </modules>
 
     <properties>
