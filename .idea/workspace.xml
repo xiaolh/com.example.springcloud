@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a50fcb11-204e-472d-b88d-2ed316890b3e" name="Default Changelist" comment="init">
+    <list default="true" id="a50fcb11-204e-472d-b88d-2ed316890b3e" name="Default Changelist" comment="增加公共模块">
       <change afterPath="$PROJECT_DIR$/cloud-api-common/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cloud-consumer-order-80/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
@@ -181,7 +181,7 @@
       <workItem from="1626834887138" duration="1745000" />
       <workItem from="1626838119713" duration="15000" />
       <workItem from="1626838749201" duration="551000" />
-      <workItem from="1626839711275" duration="3115000" />
+      <workItem from="1626839711275" duration="3582000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1626836559239</created>
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626836559239</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加公共模块">
+      <created>1626850798259</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626850798260</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +218,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="增加公共模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加公共模块" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
