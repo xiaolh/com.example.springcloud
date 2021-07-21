@@ -1,5 +1,22 @@
-# Project exclude paths
-/cloud-consumer-order-80/target/
-/cloud-provider-payment-8001/target/
-/.idea/
-/.idea/
+.idea
+*.iml
+*.class
+out
+gen
+/.apt_generated/
+/.classpath
+/.factorypath
+/.project
+/.settings/
+/.springBeans
+/target/
+/.gitignore
+/user-profile-analysis.iml
+/.idea### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen

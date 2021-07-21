@@ -12,7 +12,11 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.example.springcloud</groupId>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.example.springcloud</groupId>
             <artifactId>cloud-api-common</artifactId>
             <version>${project.version}</version>
         </dependency>
